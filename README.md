@@ -2,6 +2,8 @@
 
 FruitasticAPI is a simple service that returns random people's favorite fruits as an array. It has one method: .get(callback) which accepts a function that is called with one parameter (JSON response) when the data is ready. 
 
+### Demo: https://www.webdesigndevelopment.ca/github/reactjs-fruitasticapi/
+
 ### Application Goals:
 
 * Load data by calling FruitasticApi.get().
